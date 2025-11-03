@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.5",
   "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/mods/mods.zip",
   "changelog": "Versão inicial",
-  "mandatory": false
+  "mandatory": true
 }
