@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "download_url": "teste",
+  "version": "1.0.2",
+  "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/modpack/modpack.zip",
   "changelog": "Versão inicial",
   "mandatory": true
 }
