@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/atena27-12/AtenaModpack.zip",
+  "version": "1.2.0",
+  "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/atena28-12/AtenaModpack.zip",
   "mandatory": true,
   "changelog": "Added new mods."
 }
