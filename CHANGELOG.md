@@ -1,12 +1,12 @@
-# Changelogs - Atena Launcher
+# Changelogs - Atena
 
-## Versão 1.0.1 - 2025-11-03
+## 12-28
 
-### Adicionado
-- Launcher novo
+### Added
+- Nothing
 
-### Corrigido
-- teste
+### Fixed
+- Nothing
 
 ### Removido
-- teste z
+- Nothing
