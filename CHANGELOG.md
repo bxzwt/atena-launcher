@@ -1,12 +1,27 @@
 # Changelogs - Atena
 
+## 12-29
+
+### Updated
+- Atena Discord Compatibility.
+- ASMP Utils
+- Atena Quests
+- Atena Economy
+- Nice Teleports
+
+### Fixed
+- ASMP Utils - Technical issues fixed
+
+### Removed
+- Starlight
+
 ## 12-28
 
 ### Added
-- Nothing
+- New Atena Launcher UI!
+- Create 6.0
+- Atena Quests
+- Atena Economy
 
-### Fixed
-- Nothing
-
-### Removido
-- Nothing
+### Removed
+- Create: Wizardry
