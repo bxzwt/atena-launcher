@@ -1,5 +1,16 @@
 # Changelogs - Atena
 
+## 01-01
+
+# Added
+- Simple Radio
+
+## Updated
+- Atena Mod
+
+## Removed
+- Walkie Talkie Mod
+
 ## 12-29
 
 ### Updated
