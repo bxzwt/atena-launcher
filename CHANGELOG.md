@@ -2,13 +2,13 @@
 
 ## 01-01
 
-# Added
+### Added
 - Simple Radio
 
-## Updated
+### Updated
 - Atena Mod
 
-## Removed
+### Removed
 - Walkie Talkie Mod
 
 ## 12-29
