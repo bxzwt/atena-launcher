@@ -2,7 +2,7 @@
 
 ## 07-01
 
-### Update
+### Updated
 - ASMP Utils
 - Atena Quests
 - Atena Economy
