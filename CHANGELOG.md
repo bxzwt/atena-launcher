@@ -1,5 +1,12 @@
 # Changelogs - Atena
 
+## 08-01
+
+### Updated
+- ASMP Utils
+- Iron Spells and Spellbooks
+- T.O Magic 'n Extras
+
 ## 07-01
 
 ### Updated
