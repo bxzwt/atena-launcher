@@ -1,5 +1,10 @@
 # Changelogs - Atena
 
+## Atena 08-01 - 2
+
+### Updated
+- Nice Chat Balloons
+
 ## 08-01fix
 
 ### Uptaded
