@@ -1,5 +1,14 @@
 # Changelogs - Atena
 
+## Atena 10-01
+
+### Fixed
+- ASMP Utils - TAB Bug
+- Some crashs issues
+
+### Added
+- Connectivy
+
 ## Atena 08-01 - 2
 
 ### Updated
