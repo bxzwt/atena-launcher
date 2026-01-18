@@ -1,5 +1,18 @@
 # Changelogs - Atena
 
+## Atena 18-1
+
+### Fixed
+- ASMP Utils - Duplicated infos in TAB
+- ASMP Utils - Poland flag is now working
+- Server Lag everys 10 seconds
+
+### Added
+- Handcrafted
+- Camera Mod
+- Create Slice & Dice
+- Game Discs
+
 ## Atena 10-01
 
 ### Fixed
