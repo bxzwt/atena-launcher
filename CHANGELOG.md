@@ -5,7 +5,7 @@
 ### Fixed
 - ASMP Utils - Duplicated infos in TAB
 - ASMP Utils - Poland flag is now working
-- Server Lag everys 10 seconds
+- Server Lag every 10 seconds
 
 ### Added
 - Handcrafted
