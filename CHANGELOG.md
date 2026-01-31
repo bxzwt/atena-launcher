@@ -1,5 +1,28 @@
 # Changelogs - Atena
 
+## Atena 31-01
+
+### Added
+
+- Etched
+- Joy of Painting
+- Fishing +
+- Zrikon's Furniture : Medieval
+- Fish of Thieves
+
+### Updated
+
+- ASMP Utils
+- Atena Mod
+- Sophisticated Backpack
+- Sophisticated Storage
+- Sophisticated Core
+
+### Removed
+
+- Aquaculture
+- Weapon Master
+
 ## Atena 18-1
 
 ### Fixed
