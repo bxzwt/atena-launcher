@@ -1,13 +1,20 @@
 # Changelogs - Atena
 
+## Atena 02-03
+
+### Updated
+- Atena Mod
+
+### Removed
+- Aquamirae 2
+- Fishing +
+
 ## Atena 31-01
 
 ### Added
 
 - Etched
-- Joy of Painting
 - Fishing +
-- Zrikon's Furniture : Medieval
 - Fish of Thieves
 
 ### Updated
@@ -20,7 +27,6 @@
 
 ### Removed
 
-- Aquaculture
 - Weapon Master
 
 ## Atena 18-1
