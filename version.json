@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/atena0203/AtenaModpack.zip",
+  "version": "1.4.1",
+  "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/atena2003/AtenaModpack.zip",
   "mandatory": true,
   "changelog": "."
 }
