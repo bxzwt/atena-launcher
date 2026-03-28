@@ -1,5 +1,10 @@
 # Changelogs - Atena
 
+## Atena 28-03
+
+### Added
+- Atena Translations
+
 ## Atena 02-03
 
 ### Updated
