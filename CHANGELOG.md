@@ -1,5 +1,17 @@
 # Changelogs - Atena
 
+## Atena 08-04
+
+### Updated
+
+- ASMP Utils
+
+### Added
+
+- Atena Events
+- Explorers Compass
+- Glow Sticks
+
 ## Atena 28-03
 
 ### Added
