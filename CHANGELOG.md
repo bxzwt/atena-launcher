@@ -1,5 +1,18 @@
 # Changelogs - Atena
 
+## Atena 11-04
+
+### Updated
+
+- ASMP Utils
+- Atena Events
+- AtenaEggs
+
+## Added
+
+- Atena Global Quests
+- AtenaBetterWaystonesMenu
+
 ## Atena 08-04
 
 ### Updated
