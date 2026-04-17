@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/Atena1704/AtenaModpack.zip",
   "mandatory": true,
-  "changelog": ""
+  "changelog": "+ Forgiving Void / Upt Atena Eggs"
 }
