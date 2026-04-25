@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
-  "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/atena22apr/AtenaModpack.zip",
+  "version": "1.4.9",
+  "download_url": "https://github.com/bxzwt/atena-launcher/releases/download/Atena25Apr2026/AtenaModpack.zip",
   "mandatory": true,
-  "changelog": "Fixed AtenaGlobalQuests"
+  "changelog": ""
 }
