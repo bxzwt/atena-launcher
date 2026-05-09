@@ -1,5 +1,15 @@
 # Changelogs - Atena
 
+## Atena 08-05
+
+### Updated
+
+- Atena Translations
+
+### Removed
+
+- Goblin Traders
+
 ## Atena 17-04
 
 ### Updated
